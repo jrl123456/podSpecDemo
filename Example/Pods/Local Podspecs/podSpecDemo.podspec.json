@@ -1,0 +1,22 @@
+{
+  "name": "podSpecDemo",
+  "version": "0.1.0",
+  "summary": "A short description of podSpecDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jrl123456/podSpecDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jrl123456": "jiangrunlong@wondertek.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/jrl123456/podSpecDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "podSpecDemo/Classes/**/*"
+}
