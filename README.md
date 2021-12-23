@@ -1,0 +1,29 @@
+# podSpecDemo
+
+[![CI Status](https://img.shields.io/travis/jrl123456/podSpecDemo.svg?style=flat)](https://travis-ci.org/jrl123456/podSpecDemo)
+[![Version](https://img.shields.io/cocoapods/v/podSpecDemo.svg?style=flat)](https://cocoapods.org/pods/podSpecDemo)
+[![License](https://img.shields.io/cocoapods/l/podSpecDemo.svg?style=flat)](https://cocoapods.org/pods/podSpecDemo)
+[![Platform](https://img.shields.io/cocoapods/p/podSpecDemo.svg?style=flat)](https://cocoapods.org/pods/podSpecDemo)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+podSpecDemo is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'podSpecDemo'
+```
+
+## Author
+
+jrl123456, jiangrunlong@wondertek.com.cn
+
+## License
+
+podSpecDemo is available under the MIT license. See the LICENSE file for more info.
