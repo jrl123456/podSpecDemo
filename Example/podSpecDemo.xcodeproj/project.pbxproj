@@ -26,11 +26,11 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		9095E97C9DC29A55E01B32CF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		9095E97C9DC29A55E01B32CF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		C57371B9BD96ADB7891DF1DC /* Pods-podSpecDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-podSpecDemo_Tests.debug.xcconfig"; path = "Target Support Files/Pods-podSpecDemo_Tests/Pods-podSpecDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		D95D1C817D0DF7DE0BD4E3CD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D95D1C817D0DF7DE0BD4E3CD /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E7C0F952FFC8F209723645B3 /* Pods-podSpecDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-podSpecDemo_Tests.release.xcconfig"; path = "Target Support Files/Pods-podSpecDemo_Tests/Pods-podSpecDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F505036A3638A0C1094C0F43 /* podSpecDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = podSpecDemo.podspec; path = ../podSpecDemo.podspec; sourceTree = "<group>"; };
+		F505036A3638A0C1094C0F43 /* podSpecDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = podSpecDemo.podspec; path = ../podSpecDemo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,7 +114,6 @@
 				C57371B9BD96ADB7891DF1DC /* Pods-podSpecDemo_Tests.debug.xcconfig */,
 				E7C0F952FFC8F209723645B3 /* Pods-podSpecDemo_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -160,6 +159,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
